@@ -1,0 +1,41 @@
+
+
+.width {
+    width: 960px;
+  }
+
+.banner {  
+    background-color: #4aaaa5;
+    padding: 20px;
+    float: left;
+    border-radius: 3px;
+    color: white;
+    margin: 20px;
+    
+}
+
+.banner2 {
+    margin-left: 15px;
+    margin-top: 20px;
+    padding: 10px;
+    border-bottom: lightgreen solid 1px;
+}
+
+.navbaradj {
+    margin: 20px;
+    margin-top: 35px;
+    margin-left: 100px;
+    background-color: lightgray;
+    border-radius: 3px;
+    
+}
+
+.media  {
+margin-top: 10px;
+border-left: lightseagreen 1px solid;
+padding: 10px;
+border-right: steelblue 1px solid;
+    
+
+
+}
